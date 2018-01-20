@@ -1,3 +1,3 @@
 1 + 1
 
-1 + Infinity
+1 + Number.max { |1, -1|  }
